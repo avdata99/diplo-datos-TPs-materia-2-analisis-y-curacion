@@ -1,3 +1,16 @@
+# Ejecutar en tu computadora
+
+Compilar y ejecutar la imagen docker.  
+
+En linux es:
+```
+docker build -t conda .
+docker run -it -p 8888:8888 conda
+```
+
+Abrir en el navegador el link indicado
+
+
 # Trabajos prácticos de análisis y curación
 
 
